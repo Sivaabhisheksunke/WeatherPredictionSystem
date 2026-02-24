@@ -13,6 +13,7 @@ Source: Kaggle
 Records: 8,784 entries
 Features:
 Temperature (°C)
+
 Dew Point Temperature
 Relative Humidity (%)
 Wind Speed (km/h)
